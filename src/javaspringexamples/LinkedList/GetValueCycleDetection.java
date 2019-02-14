@@ -1,4 +1,4 @@
-package com.codercocoon.LinkedList;
+package javaspringexamples.LinkedList;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -9,7 +9,7 @@ import java.util.Stack;
  * get a node at the Nth position from the tail of a linked list, get
  * duplicate-value nodes, cycle detection.
  * 
- * @author contact@codercocoon.com.
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class GetValueCycleDetection {

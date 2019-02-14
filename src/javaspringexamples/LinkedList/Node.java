@@ -1,4 +1,4 @@
-package com.codercocoon.LinkedList;
+package javaspringexamples.LinkedList;
 
 public class Node {
 	int data;
